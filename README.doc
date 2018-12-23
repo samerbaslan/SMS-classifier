@@ -1,0 +1,11 @@
+SMS pre-processor and feature extractor by
+
+Vikram Melkote
+Samer Baslan
+
+
+To run pre-processor and feature extractor:
+
+python sms_classifier.py > test_output
+
+(output to test_output file is separate from the .csv files and can be disregarded)
